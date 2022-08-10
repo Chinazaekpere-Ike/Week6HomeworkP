@@ -1,0 +1,88 @@
+button {
+  border-radius: 4px;
+  background-color: #d7c0d0;
+  border: 1px solid lightgray;
+  font-family: "Indie Flower", cursive;
+  font-size: larger;
+  width: 72px;
+  height: 31px;
+}
+#weather-search-engine {
+  margin-bottom: 5px;
+}
+h1 {
+  color: #fbe300;
+  margin-top: 8px;
+}
+
+h2 {
+  color: #848383;
+}
+
+h3 {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-size: 15px;
+  color: #47026c;
+}
+
+form,
+h1,
+h2,
+ul,
+.weatherIcon {
+  margin: 20px auto;
+}
+
+h1,
+h2,
+h3,
+.time,
+.weatherIcon {
+  text-align: center;
+}
+
+.col-2 {
+  position: relative;
+  left: 29px;
+}
+
+.container {
+  background: #f8effc;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 10px;
+  width: 350px;
+  height: 680px;
+  margin: 30px 30px;
+}
+.different-temperature {
+  font-size: 10px;
+}
+
+.row {
+  font-family: "Indie Flower", cursive;
+  font-weight: 800;
+  font-size: large;
+  color: #47026c;
+}
+.time {
+  font-family: "Mochiy Pop One", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  color: #848383;
+  margin-top: 10px;
+}
+.weatherIcon {
+  color: #000;
+  font-size: 40px;
+}
+
+.weatherTime {
+  margin-top: 20px;
+}
+
+.different-temperature,
+.weatherTimeIcon {
+  margin-top: 10px;
+}
